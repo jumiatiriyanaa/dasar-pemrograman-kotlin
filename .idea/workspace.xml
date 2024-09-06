@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71251d31-bfec-4a24-85ad-644588e927bb" name="Changes" comment="Add Variabel2.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Var.kt" afterDir="false" />
+    <list default="true" id="71251d31-bfec-4a24-85ad-644588e927bb" name="Changes" comment="Add Var.kt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Variabel1Kt">
+  <component name="RunManager" selected="Kotlin.ValKt">
     <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LiteralKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -53,6 +53,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Variabel1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Variabel1Kt" />
       <module name="DasarPemrogramanKotlin" />
@@ -62,6 +76,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ValKt" />
+        <item itemvalue="Kotlin.VarKt" />
         <item itemvalue="Kotlin.Variabel1Kt" />
         <item itemvalue="Kotlin.LiteralKt" />
         <item itemvalue="Kotlin.MainAppKt" />
@@ -154,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725590078766</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add Var.kt">
+      <created>1725590563195</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725590563195</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +188,7 @@
     <MESSAGE value="Add BlokdanKomentar.kt" />
     <MESSAGE value="Add Variabel1.kt" />
     <MESSAGE value="Add Variabel2.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Variabel2.kt" />
+    <MESSAGE value="Add Var.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Var.kt" />
   </component>
 </project>
