@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71251d31-bfec-4a24-85ad-644588e927bb" name="Changes" comment="Add Boolean.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/String(ArrayofCharacter)1.kt" afterDir="false" />
-    </list>
+    <list default="true" id="71251d31-bfec-4a24-85ad-644588e927bb" name="Changes" comment="Add Stringraw2.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -247,7 +245,35 @@
       <option name="project" value="LOCAL" />
       <updated>1725597356769</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add String(ArrayofCharacter)1.kt">
+      <created>1725597741229</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725597741229</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add String(ArrayofCharacter)2.kt">
+      <created>1725597839791</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725597839791</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add Stringraw.kt">
+      <created>1725597947801</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1725597947801</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Add Stringraw2.kt">
+      <created>1725598033148</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1725598033148</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -269,6 +295,10 @@
     <MESSAGE value="Add PenerapanKonversiEksplisitpadaChar.kt" />
     <MESSAGE value="Add Character(Char).kt" />
     <MESSAGE value="Add Boolean.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Boolean.kt" />
+    <MESSAGE value="Add String(ArrayofCharacter)1.kt" />
+    <MESSAGE value="Add String(ArrayofCharacter)2.kt" />
+    <MESSAGE value="Add Stringraw.kt" />
+    <MESSAGE value="Add Stringraw2.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Stringraw2.kt" />
   </component>
 </project>
