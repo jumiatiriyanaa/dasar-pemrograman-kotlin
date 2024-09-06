@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71251d31-bfec-4a24-85ad-644588e927bb" name="Changes" comment="Add FungsiAnggotapadaString.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanString.kt" afterDir="false" />
-    </list>
+    <list default="true" id="71251d31-bfec-4a24-85ad-644588e927bb" name="Changes" comment="Add ProgramCaesarMorse.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -289,12 +287,31 @@
       <option name="project" value="LOCAL" />
       <updated>1725598248843</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Add PenerapanString.kt">
+      <created>1725598480498</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1725598480498</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Add ProgramCaesarChiper.kt">
+      <created>1725598605214</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1725598605214</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Add ProgramCaesarMorse.kt">
+      <created>1725598734644</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1725598734644</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Push stater project." />
-    <MESSAGE value="Add MainApp.kt" />
     <MESSAGE value="Add Literal.kt" />
     <MESSAGE value="Add Whitespaces.kt" />
     <MESSAGE value="Add BlokdanKomentar.kt" />
@@ -317,6 +334,9 @@
     <MESSAGE value="Add Stringraw2.kt" />
     <MESSAGE value="Add StringTemplates.kt" />
     <MESSAGE value="Add FungsiAnggotapadaString.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add FungsiAnggotapadaString.kt" />
+    <MESSAGE value="Add PenerapanString.kt" />
+    <MESSAGE value="Add ProgramCaesarChiper.kt" />
+    <MESSAGE value="Add ProgramCaesarMorse.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ProgramCaesarMorse.kt" />
   </component>
 </project>
