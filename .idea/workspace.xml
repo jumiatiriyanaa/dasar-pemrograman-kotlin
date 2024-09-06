@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71251d31-bfec-4a24-85ad-644588e927bb" name="Changes" comment="Add Variabel1.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Variabel1.kt" afterDir="false" />
+    <list default="true" id="71251d31-bfec-4a24-85ad-644588e927bb" name="Changes" comment="Add Variabel2.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Var.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725589933956</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add Variabel2.kt">
+      <created>1725590078766</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725590078766</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -157,6 +164,7 @@
     <MESSAGE value="Add Whitespaces.kt" />
     <MESSAGE value="Add BlokdanKomentar.kt" />
     <MESSAGE value="Add Variabel1.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Variabel1.kt" />
+    <MESSAGE value="Add Variabel2.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Variabel2.kt" />
   </component>
 </project>
