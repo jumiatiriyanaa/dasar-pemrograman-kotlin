@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71251d31-bfec-4a24-85ad-644588e927bb" name="Changes" comment="Add TipeDataBilBulat.kt" />
+    <list default="true" id="71251d31-bfec-4a24-85ad-644588e927bb" name="Changes" comment="Add TipeDataBilDesimal.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ConstansLiteral.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725591343983</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add TipeDataBilDesimal.kt">
+      <created>1725591589653</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725591589653</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,6 +212,7 @@
     <MESSAGE value="Add Var.kt" />
     <MESSAGE value="Add Val.kt" />
     <MESSAGE value="Add TipeDataBilBulat.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add TipeDataBilBulat.kt" />
+    <MESSAGE value="Add TipeDataBilDesimal.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add TipeDataBilDesimal.kt" />
   </component>
 </project>
